@@ -9,7 +9,7 @@ https://github.com/yeyingorg/php_bwh_stock_checker
 # Config
 
 # 搬瓦工相关
-$aff=31993; #aff号
+$aff=29389; #aff号
 $bwh_domain="bwh88.net"; #搬瓦工域名，不带https://
 
 $promo_code="BWH3HYATVBJW"; #优惠码
